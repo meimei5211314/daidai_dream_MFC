@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serial>
+<COM>4</COM>
+<Speed>115200</Speed>
+<Parity>n</Parity>
+<DataBits>8</DataBits>
+<StopBits>1</StopBits>
+</serial>
